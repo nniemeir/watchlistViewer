@@ -1,0 +1,15 @@
+* {
+    background: #1E1E1E;
+    color: white;
+    border-color:white;
+    selection-background-color: #3E3E42;
+    font: 12pt "Roboto";
+}
+
+QLineEdit,
+QListWidget {
+border: 2px solid;
+border-color: white;
+background-color: #252526;
+}
+
